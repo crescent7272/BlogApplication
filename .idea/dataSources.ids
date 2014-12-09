@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails BlogApplication: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="0331858a-66d7-4aa3-97ed-1e1d4b86bac1">
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:C:\Users\arzum.karatas\RubymineProjects\BlogApplication\db\development.sqlite3</jdbc-url>
+    <libraries>
+      <library>
+        <url>file://</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
